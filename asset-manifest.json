@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/noter.io/static/css/main.499c3516.css",
+    "main.js": "/noter.io/static/js/main.7fb86513.js",
+    "index.html": "/noter.io/index.html",
+    "main.499c3516.css.map": "/noter.io/static/css/main.499c3516.css.map",
+    "main.7fb86513.js.map": "/noter.io/static/js/main.7fb86513.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.499c3516.css",
+    "static/js/main.7fb86513.js"
+  ]
+}
